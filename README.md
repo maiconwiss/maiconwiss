@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maiconwissmann/)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@maiconwiss/)
 
-I have 16 years of experience in software development, having worked as an analyst, developer, software architect, technical team leader, and software quality manager. My background includes extensive experience in creating high-performance software and leading the migration of legacy systems to new technologies and methodologies. 
+I have 18 years of experience in software development, having worked as an analyst, developer, software architect, technical team leader, and software quality manager. My background includes extensive experience in creating high-performance software and leading the migration of legacy systems to new technologies and methodologies. 
 
 
 
